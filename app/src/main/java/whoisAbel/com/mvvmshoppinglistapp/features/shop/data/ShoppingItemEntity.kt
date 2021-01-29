@@ -1,4 +1,4 @@
-package whoisAbel.com.mvvmshoppinglistapp.core.db.entities
+package whoisAbel.com.mvvmshoppinglistapp.features.shop.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

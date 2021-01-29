@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import whoisAbel.com.mvvmshoppinglistapp.core.db.entities.ShoppingItemEntity
+import whoisAbel.com.mvvmshoppinglistapp.features.shop.data.ShoppingItemEntity
 
 @Database(
     entities = [ShoppingItemEntity::class],
